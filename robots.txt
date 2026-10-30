@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jonatamoraes97.github.io/sitemap.xml
